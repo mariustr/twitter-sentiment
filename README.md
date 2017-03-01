@@ -4,15 +4,16 @@
 
 A. Start med å laste ned Ipyhon notebook fil til lokalt område for opplasting i Databricks   
 B. Datafiler for tekstanalyse i Spark behøver ikke hentes ned lokalt, disse vil bli lastet inn via Ipyhon notebook  
+
 Oppgave: 
 
 1. Skaff deg ny bruker/Logg deg inn på Databricks Community Edition. 
   I.Lag et cluster som heter ‘analytics’
   
-2. Hent URL for iPython-notebook fra github.com/mariustr/twitter-sentiment
-  Text Mining Exercise - oppgavescript
-  Text Mining Exercise Complete - fasit  
-  II.Importer notebook fra URL i Databricks.
+2. Hent URL for iPython-notebook fra github.com/mariustr/twitter-sentiment  
+Text Mining Exercise - oppgavescript  
+Text Mining Exercise Complete - fasit    
+II.Importer notebook fra URL i Databricks. (Gå til din workspace og høyreklikk)
 
 3. Kjør analyse (kjør cellene):
   I.Last inn pakker (ferdigskrevet)
